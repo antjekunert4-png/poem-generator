@@ -14,13 +14,12 @@ header {
   margin-bottom: 30px;
   text-align: center;
 }
-
-hi {
+h1 
   font weight: 800;
   font-size: 36px;
   line-height: 1.5;
   color: #272044;
-}
+
 
 form {
   padding: 30px;
